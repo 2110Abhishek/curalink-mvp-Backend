@@ -1,0 +1,47 @@
+[33mcommit 04b0b6012280f264be1a90adcc7ee7391ccad8d9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Thu Nov 6 00:02:24 2025 +0530
+
+    Clean repository history
+
+[33mcommit ab5dd4acdd1a6fba6dd5e1d92b5d5272bf83cd6f[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Thu Nov 6 00:01:16 2025 +0530
+
+    Removed .env from tracking and added to .gitignore
+
+[33mcommit ead151b3380ccc5a322bd5302dba2b2f451e1f2a[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 23:59:42 2025 +0530
+
+    Clean push without secrets
+
+[33mcommit e5fc8b4acf546d6fd75112b765643b769826ccd3[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 23:58:06 2025 +0530
+
+    Removed .env from repo and added to .gitignore
+
+[33mcommit 11617d2019fdd4afb74adb172e42815b9f58c7ab[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 23:55:34 2025 +0530
+
+    backend
+
+[33mcommit b007c2db6d96e0ec08044b0b2d7e9f8f7fd81e9d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 21:59:00 2025 +0530
+
+    backend
+
+[33mcommit 4aeb87fb02f2c2f6fc7415d703bfabf774a6342e[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 21:50:08 2025 +0530
+
+    backend
+
+[33mcommit b3a4784ae08aefea7b01fc73a5a5e7bd8feeb58d[m
+Author: 2110Abhishek <agchoudhari2110@gmail.com>
+Date:   Wed Nov 5 21:26:48 2025 +0530
+
+    backend
